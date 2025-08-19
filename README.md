@@ -50,5 +50,3 @@ Develop a multi-turn AI assistant that empowers customers to make informed purch
     d. python-dotenv (environment variable management)
 4. Development Environment: Azure Cloud Shell / Local Python
 5. Version Control & Hosting: Git & GitHub
-
---
