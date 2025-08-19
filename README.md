@@ -7,7 +7,8 @@
 - [Task](#task)
 - [Action](#action)
 - [Result](#results)    
-- [Technologies Used](#technologies-used)  
+- [Technologies Used](#technologies-used)
+- [Demo](#demo)  
 
 ## Overview
 
@@ -50,3 +51,6 @@ Develop a multi-turn AI assistant that empowers customers to make informed purch
     d. python-dotenv (environment variable management)
 4. Development Environment: Azure Cloud Shell / Local Python
 5. Version Control & Hosting: Git & GitHub
+
+## Demo
+
