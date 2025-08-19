@@ -54,3 +54,5 @@ Develop a multi-turn AI assistant that empowers customers to make informed purch
 
 ## Demo
 
+LINK: https://drive.google.com/drive/folders/1XQYrQqkeJJGe9foyTDGOCrLVDVlcu2zU?usp=sharing
+
