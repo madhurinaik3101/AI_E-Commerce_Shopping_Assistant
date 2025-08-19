@@ -39,8 +39,6 @@ Develop a multi-turn AI assistant that empowers customers to make informed purch
 2. Achieved **~30% faster responses** and **~25% lower operational cost**, making the Assistant practical for small-to-large enterprise e-commerce platforms.
 
 
----
-
 ## Technologies Used
 
 1. Language Model: LLaMA-4 Maverick-17B-128F-Instruct-FP8
