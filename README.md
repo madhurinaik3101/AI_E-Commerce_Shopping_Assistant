@@ -52,6 +52,10 @@ Develop a multi-turn AI assistant that empowers customers to make informed purch
 4. Development Environment: Azure Cloud Shell / Local Python
 5. Version Control & Hosting: Git & GitHub
 
+## References
+
+Microsoft Learn
+
 ## Demo
 
 ![AI-Ecommerce-Shopping-Assistant](https://github.com/user-attachments/assets/92838f00-52e8-48bf-9b52-bcc8b60dae86)
