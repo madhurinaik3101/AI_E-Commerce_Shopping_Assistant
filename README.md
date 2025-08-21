@@ -1,4 +1,4 @@
-# AI-E-Commerce-Shopping-Assistant
+# AI-E-Commerce-Shopping-Assistant-using-Azure-AIFoundry-SDK
 
 ## Table of Contents
 
@@ -53,6 +53,8 @@ Develop a multi-turn AI assistant that empowers customers to make informed purch
 5. Version Control & Hosting: Git & GitHub
 
 ## Demo
+
+![AI-Ecommerce-Shopping-Assistant](https://github.com/user-attachments/assets/92838f00-52e8-48bf-9b52-bcc8b60dae86)
 
 LINK: https://drive.google.com/drive/folders/1XQYrQqkeJJGe9foyTDGOCrLVDVlcu2zU?usp=sharing
 
